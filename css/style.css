@@ -131,12 +131,18 @@ header{
 
     .menu ul li{
         margin-right: 0.2rem;
-        font-size: 1.rem;
+        font-size: 1rem;
+    }
+
+
+    .sub-menu{               
+        border-bottom: none;
     }
 
 
     .sub-menu li{
-        height: 2.8rem;
+        height: 200%;
+       
     }
 }
 
